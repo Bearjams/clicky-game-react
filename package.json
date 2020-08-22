@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Bearjams.github.io/clicky-game-react",
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
     "react-scripts": "1.1.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -20,7 +23,9 @@
   },
   "description": "### About",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Bearjams/clicky-game-react.git"
@@ -31,7 +36,6 @@
   "author": "Sam Croce",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bearjams/clicky-game-react/issues"
-  },
-  "homepage": "https://github.com/Bearjams/clicky-game-react#readme"
+    "url": "https://github.com/Bearjams/clicky-game-react./issues"
+  }
 }
