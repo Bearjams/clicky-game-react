@@ -2,62 +2,62 @@
     {
         "id": 1,
         "name": "Varys",
-        "image": "../imgs/varys.jpg"
+        "image": "public/imgs/varys.jpg"
     },
     {
         "id": 2,
         "name": "Bran",
-        "image": "../imgs/bran.png"
+        "image": "public/imgs/bran.png"
     },
     {
         "id": 3,
         "name": "Littlefinger",
-        "image": "../imgs/littlefinger.gif"
+        "image": "public/imgs/littlefinger.gif"
     },
     {
         "id": 4,
         "name": "Jon Snow",
-        "image": "../imgs/jon.jpg"
+        "image": "public/imgs/jon.jpg"
     },
     {
         "id": 5,
         "name": "Cersei",
-        "image": "../imgs/cersei.png"
+        "image": "public/imgs/cersei.png"
     },
     {
         "id": 6,
         "name": "Brienne",
-        "image": "../imgs/brienne.jpg"
+        "image": "public/imgs/brienne.jpg"
     },
     {
         "id": 7,
         "name": "Jaime",
-        "image": "../imgs/jaime.jpg"
+        "image": "public/imgs/jaime.jpg"
     },
     {
         "id": 8,
         "name": "Daenerys",
-        "image": "../imgs/daenarys.jpg"
+        "image": "public/imgs/daenarys.jpg"
     },
     {
         "id": 9,
         "name": "Lady Melisandre",
-        "image": "../imgs/melisandre.jpg"
+        "image": "public/imgs/melisandre.jpg"
     },
     {
         "id": 10,
         "name": "Jorah",
-        "image": "../imgs/jorah.jpg"
+        "image": "public/imgs/jorah.jpg"
     },
     {
         "id": 11,
         "name": "Sansa",
-        "image": "../imgs/sansa.jpg"
+        "image": "public/imgs/sansa.jpg"
     },
     {
         "id": 12,
         "name": "Sam",
-        "image": "../imgs/sam.jpg"
+        "image": "public/imgs/sam.jpg"
     }
 
 ]
