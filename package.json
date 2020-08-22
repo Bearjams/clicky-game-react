@@ -8,14 +8,11 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.1.1",
-    "gh-pages": "^3.1.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "1.1.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -36,5 +33,5 @@
   "bugs": {
     "url": "https://github.com/Bearjams/clicky-game-react/issues"
   },
-  "homepage": "https://Bearjams.github.io/clicky-game-react"
+  "homepage": "https://github.com/Bearjams/clicky-game-react#readme"
 }
